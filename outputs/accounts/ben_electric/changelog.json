@@ -3,12 +3,12 @@
     {
       "version": "v1",
       "source": "demo_call",
-      "changes": "Initial agent generated from demo transcript"
+      "changes": "Initial configuration generated from demo transcript with limited information."
     },
     {
       "version": "v2",
       "source": "onboarding_call",
-      "changes": "Contact details confirmed during onboarding. No operational rules added."
+      "changes": "Added services supported, call volume, CRM system (Jobber), emergency routing rules and business workflow details extracted from onboarding conversation."
     }
   ]
 }

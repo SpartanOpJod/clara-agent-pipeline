@@ -1,27 +1,40 @@
 {
   "account_id": "ben_electric",
-  "company_name": "G&M Pressure washing",
+  "company_name": "Ben's Electric Solutions",
   "business_hours": {
-    "days": "",
+    "days": "mostly business hours",
     "start": "",
     "end": "",
     "timezone": ""
   },
   "office_address": "",
-  "services_supported": [],
-  "emergency_definition": [],
-  "emergency_routing_rules": "",
-  "non_emergency_routing_rules": "",
-  "call_transfer_rules": "",
-  "integration_constraints": [],
-  "after_hours_flow_summary": "",
-  "office_hours_flow_summary": "",
-  "questions_or_unknowns": [
-    "Business hours not provided.",
-    "Office address not provided.",
-    "Services supported not provided.",
-    "Emergency definitions not provided.",
-    "Routing rules not provided."
+  "services_supported": [
+    "electrical service calls",
+    "renovations",
+    "troubleshooting",
+    "EV charger installation",
+    "hot tub electrical hookups",
+    "panel changes",
+    "residential electrical work",
+    "commercial electrical work"
   ],
-  "notes": "Onboarding confirmed contact information. Contact: Shelley Manley, Phone: 403-870-8494, Emails: info@benselectricsolutionsteam.com and gm_pressurewash@yahoo.ca"
+  "emergency_definition": [
+    "electrical emergency for property managers",
+    "urgent contractor jobs"
+  ],
+  "emergency_routing_rules": "After hours emergency calls routed to Ben directly",
+  "non_emergency_routing_rules": "AI receptionist gathers details and notifies Ben via dashboard/email",
+  "call_transfer_rules": "Preferred customers and contractors may bypass AI and call Ben directly",
+  "integration_constraints": [
+    "CRM system is Jobber",
+    "Accounting system is QuickBooks"
+  ],
+  "after_hours_flow_summary": "AI answers calls, collects customer information, schedules jobs for next business day unless emergency for property managers",
+  "office_hours_flow_summary": "AI answers calls, collects caller name, phone number, job description and scheduling preferences then sends details to dashboard and Ben",
+  "questions_or_unknowns": [
+    "Exact business hours not specified",
+    "Office address not provided",
+    "Detailed call transfer timeouts not specified"
+  ],
+  "notes": "Owner: Ben Penoyer. Approximately 20–50 calls per week. Team includes 3 journeymen electricians and subcontractors. Uses Jobber CRM."
 }

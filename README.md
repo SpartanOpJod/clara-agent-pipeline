@@ -30,6 +30,9 @@ Pipeline B processes onboarding updates and creates the next version:
 
 For this account, v2 outputs are in `outputs/accounts/ben_electric/v2/`.
 
+The pipeline intentionally avoids hallucinating missing operational rules. 
+Any configuration not explicitly stated in transcripts is stored under questions_or_unknowns.
+
 ## Folder Structure
 
 ```text
