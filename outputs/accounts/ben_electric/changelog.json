@@ -1,0 +1,14 @@
+{
+  "version_history": [
+    {
+      "version": "v1",
+      "source": "demo_call",
+      "changes": "Initial agent generated from demo transcript"
+    },
+    {
+      "version": "v2",
+      "source": "onboarding_call",
+      "changes": "Contact details confirmed during onboarding. No operational rules added."
+    }
+  ]
+}

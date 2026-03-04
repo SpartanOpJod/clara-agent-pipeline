@@ -1,0 +1,27 @@
+{
+  "account_id": "ben_electric",
+  "company_name": "G&M Pressure washing",
+  "business_hours": {
+    "days": "",
+    "start": "",
+    "end": "",
+    "timezone": ""
+  },
+  "office_address": "",
+  "services_supported": [],
+  "emergency_definition": [],
+  "emergency_routing_rules": "",
+  "non_emergency_routing_rules": "",
+  "call_transfer_rules": "",
+  "integration_constraints": [],
+  "after_hours_flow_summary": "",
+  "office_hours_flow_summary": "",
+  "questions_or_unknowns": [
+    "Business hours not provided.",
+    "Office address not provided.",
+    "Services supported not provided.",
+    "Emergency definitions not provided.",
+    "Routing rules not provided."
+  ],
+  "notes": "Onboarding confirmed contact information. Contact: Shelley Manley, Phone: 403-870-8494, Emails: info@benselectricsolutionsteam.com and gm_pressurewash@yahoo.ca"
+}

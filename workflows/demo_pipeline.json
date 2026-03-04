@@ -1,0 +1,9 @@
+{
+  "workflow_name": "demo_pipeline",
+  "steps": [
+    "load transcript",
+    "extract account memo",
+    "generate agent spec",
+    "store outputs"
+  ]
+}
