@@ -63,15 +63,4 @@ Each version folder (`v1`, `v2`, etc.) contains:
 
 Account-level `changelog.json` tracks version history and source context.
 
-## Limitations Due to Missing Demo Data
 
-This dataset has incomplete operational details. Missing or blank fields are intentionally preserved.
-
-Known limitations include:
-- business hours are unspecified,
-- office address is missing,
-- services supported are not defined,
-- emergency definition is not provided,
-- transfer routing rules are not fully configured.
-
-The generated agent specs include safe fallback behavior and avoid inventing unsupported business rules.
