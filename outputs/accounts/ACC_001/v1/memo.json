@@ -1,0 +1,32 @@
+{
+    "company_name": "Apex Fire Protection",
+    "business_hours": {
+        "days": "Monday through Friday",
+        "start": "8",
+        "end": "5",
+        "timezone": null
+    },
+    "office_address": null,
+    "services_supported": [
+        "sprinkler systems",
+        "fire alarms"
+    ],
+    "emergency_definition": [
+        "sprinkler breaks"
+    ],
+    "emergency_routing_rules": "route to on-call tech, Mike",
+    "non_emergency_routing_rules": "take a message",
+    "call_transfer_rules": {
+        "timeouts": null,
+        "retries": null,
+        "what_to_say_if_fails": null
+    },
+    "integration_constraints": null,
+    "after_hours_flow_summary": null,
+    "office_hours_flow_summary": null,
+    "questions_or_unknowns": [
+        "how to handle non-emergencies after hours"
+    ],
+    "notes": null,
+    "account_id": "ACC_001"
+}
